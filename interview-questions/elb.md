@@ -1,5 +1,3 @@
-Certainly! Here are 20 interview questions related to Elastic Load Balancers (ELBs) in AWS, along with detailed answers in Markdown format:
-
 ## Elastic Load Balancers (ELBs) Interview Questions
 
 ### 1. What is an Elastic Load Balancer (ELB)?
